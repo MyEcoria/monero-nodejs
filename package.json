@@ -1,6 +1,6 @@
 {
-  "name": "monero-nodejs",
-  "version": "4.0.0",
+  "name": "monero-nodejs-community",
+  "version": "4.0.1",
   "description": "A Monero library written in Node.js.",
   "main": "./lib/wallet.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PsychicCat/monero-nodejs.git"
+    "url": "git+https://github.com/MyEcoria/monero-nodejs.git"
   },
   "keywords": [
     "Monero",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PsychicCat/monero-nodejs/issues"
+    "url": "https://github.com/MyEcoria/monero-nodejs/issues"
   },
-  "homepage": "https://github.com/PsychicCat/monero-nodejs#readme",
+  "homepage": "https://github.com/MyEcoria/monero-nodejs#readme",
   "dependencies": {
     "request": "^2.85.0",
     "request-promise": "^4.2.2"
