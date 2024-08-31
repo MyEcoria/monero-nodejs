@@ -1,6 +1,6 @@
 {
   "name": "monero-nodejs-community",
-  "version": "4.0.1",
+  "version": "4.0.8",
   "description": "A Monero library written in Node.js.",
   "main": "./lib/wallet.js",
   "scripts": {
